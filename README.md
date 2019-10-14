@@ -1,4 +1,4 @@
-##Classic Game Design - From Pong to Pac-Man With Unity
+# Classic Game Design - From Pong to Pac-Man With Unity
 
 Repository to hold game projects from the book [Classic Game Design](http://classicgamedesign.com/)
 
